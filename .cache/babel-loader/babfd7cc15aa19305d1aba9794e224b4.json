@@ -1,0 +1,1 @@
+{"ast":null,"code":"import 'flatpickr/dist/flatpickr.css';","map":{"version":3,"names":[],"sources":["C:/Users/someO/Desktop/vue/osboha-template/src/plugins/index.js"],"sourcesContent":["import 'flatpickr/dist/flatpickr.css'\n"],"mappings":"AAAA,OAAO,8BAAP"},"metadata":{},"sourceType":"module"}
